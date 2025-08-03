@@ -1,0 +1,6 @@
+AppData/
+*.log
+*.tmp
+*.bak
+node_modules/
+.env

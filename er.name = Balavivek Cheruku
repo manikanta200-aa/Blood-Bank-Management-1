@@ -1,0 +1,35 @@
+[33mcommit c5d65ce95e581005cfd13725341d875ae5344642[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Sat Aug 2 17:12:29 2025 +0530
+
+    Initial commit: Blood Bank Management System project setup
+
+[33mcommit 032cb84bee88b9c24cd9b0ff78df53efa533a1f6[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Sat Aug 2 14:16:04 2025 +0530
+
+    Fix API base URL for deployment
+
+[33mcommit 4ccecb2f2d368bbd3e3d319db9be961f27c931f4[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Sat Aug 2 14:04:56 2025 +0530
+
+    Moved inline JS to external file for CSP fix
+
+[33mcommit 833ed28c27f014d1b3be15cb1415c05abf9e4bda[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Sat Aug 2 13:18:38 2025 +0530
+
+    Initial commit
+
+[33mcommit 67647b171785285eea36504977c4eeef31c95e48[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Fri Aug 1 22:48:39 2025 +0530
+
+    Initial commit
+
+[33mcommit 6b7c964a250ebd593dc9e50bb153645c9bf58dd6[m
+Author: SyamKolli2027 <shyamkolli06@gmail.com>
+Date:   Fri Aug 1 20:30:36 2025 +0530
+
+    Initial commit
